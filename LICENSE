@@ -1,0 +1,43 @@
+Creative Commons Attribution-ShareAlike 4.0 International License
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+================================================================================
+
+This test suite is a derivative work based on the OWASP Top 10 for Large
+Language Model Applications (2025), which is licensed under CC BY-SA 4.0.
+
+Original work: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+Original authors: OWASP Foundation and contributors
+
+Derivative work created by: TestMy.AI (CCB-TR)
+Derivative work repository: https://github.com/testmy-ai/owasp-llm-security-tests
+
+================================================================================
+
+ATTRIBUTION REQUIREMENTS:
+
+When using, modifying, or distributing this work, you must:
+1. Give appropriate credit to both OWASP Foundation and TestMy.AI
+2. Provide a link to the license
+3. Indicate if changes were made
+4. Distribute derivative works under the same CC BY-SA 4.0 license
+
+================================================================================
+
+DISCLAIMER:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+These tests are designed for security testing of AI systems with proper
+authorization. Users are responsible for ensuring they have appropriate
+permissions before testing any AI systems.
