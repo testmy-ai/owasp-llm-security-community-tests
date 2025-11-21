@@ -8,7 +8,7 @@
 
 **15 foundational OWASP LLM Top 10 security tests for educational purposes**
 
-[EU AI Act Technical Audit](https://testmy.ai/audit) • [Sample Reports](https://testmy.ai/sample-report) • [Whitepaper](https://testmy.ai/whitepaper)
+[Website](https://testmy.ai) • [Documentation](https://testmy.ai/blog)
 
 </div>
 
@@ -27,18 +27,9 @@ Sample tests demonstrating AI security testing methodology:
 - ❌ **Complete security coverage** (15 tests vs 550+ in our full audit)
 - ❌ **Substitute for professional compliance audit**
 
-## 🏢 Need Full Coverage?
+## 🏢 Professional Services
 
-Our **EU AI Act Technical Audit** includes:
-- ✅ **550+ tests** (vs. 15 here) mapped to Article 15 requirements
-- ✅ **Expert analysis** and manual validation by certified auditors
-- ✅ **Article 15 regulatory mapping** for EU AI Act compliance
-- ✅ **Board-ready compliance report** suitable for regulatory submission
-- ✅ **Specific remediation guidance** with code examples
-
-**→ [Request EU AI Act Audit](https://testmy.ai/audit)** • Starting at $15,000 • 7-10 business days
-
-**→ [Download Whitepaper: "The Technical Gap in Article 15 Compliance"](https://testmy.ai/whitepaper)**
+For comprehensive Article 15 compliance testing with regulatory-grade reports: **[testmy.ai](https://testmy.ai)**
 
 ---
 
@@ -210,35 +201,14 @@ Resource exhaustion attacks can DoS AI systems.
 
 ---
 
-## 🏢 Enterprise Use Cases
-
-### Why Independent AI Security Audits Matter
-
-**The Compliance Gap**:
-- ✅ SOC2, ISO 27001, GDPR require **third-party validation**
-- ✅ Boards want **independent certification**
-- ✅ Customers demand **vendor-neutral security proof**
-
-**The Expertise Gap**:
-- ❌ Tools give "red/green" lights (no context)
-- ✅ TestMy.AI provides **expert analysis** (what, why, how to fix)
-- ✅ 20-page reports with **remediation roadmap**
-
----
-
 ## 🎓 Who Should Use This?
 
-### Community Edition (This Repo):
 - ✅ Security researchers learning AI vulnerabilities
 - ✅ Developers adding basic AI security checks
 - ✅ Students studying OWASP LLM Top 10
 - ✅ Open-source projects needing reference tests
 
-### Professional Suite (TestMy.AI):
-- ✅ US companies expanding to Europe needing Article 15 certification
-- ✅ EMEA enterprises preparing for EU AI Act enforcement
-- ✅ Compliance consultants needing technical testing partners
-- ✅ Companies requiring regulatory-grade documentation
+> **Note:** These 15 tests cover ~3% of the attack surface. For production use or compliance requirements, consider professional testing services.
 
 ---
 
@@ -246,7 +216,7 @@ Resource exhaustion attacks can DoS AI systems.
 
 | Feature | Community Edition | Professional Suite |
 |---------|------------------|-------------------|
-| **Test Count** | 15 | 505+ |
+| **Test Count** | 15 | 550+ |
 | **Attack Strategies** | BASIC only | BASIC + ADVANCED + AGENTIC + ADAPTIVE |
 | **Execution** | Manual | Automated + Black-box |
 | **Coverage** | 3% of attack surface | 100% of OWASP Top 10 |
@@ -255,84 +225,20 @@ Resource exhaustion attacks can DoS AI systems.
 | **Compliance** | Not suitable | EU AI Act Article 15 ready |
 | **Support** | Community | Direct expert access |
 | **Industry-Specific** | None | Medical, Financial, Legal |
-| **Continuous Monitoring** | No | Quarterly/Monthly scans |
-| **Price** | Free | Starting at $15,000 |
+| **Continuous Monitoring** | No | Quarterly/Monthly available |
+| **Price** | Free | [View Pricing](https://testmy.ai/services) |
 
 ---
 
-## 🛡️ TestMy.AI Professional Services
-
-### EU AI Act Technical Audit (Starting at $15,000)
-**What You Get**:
-- ✅ 550+ robustness and cybersecurity tests
-- ✅ Article 15 compliance certification
-- ✅ 20+ page report with regulatory mapping
-- ✅ Step-by-step remediation guidance
-- ✅ Board-ready documentation
-- ✅ 7-10 business day delivery
-
-**Perfect For**: US companies expanding to Europe, EMEA enterprises preparing for enforcement, compliance-ready AI systems
-
-[**→ Request Technical Audit**](https://testmy.ai/audit)
 
 ---
 
-### Article 15 Risk Assessment ($3,500)
-**What You Get**:
-- ✅ Single endpoint testing
-- ✅ 3-4 business day delivery
-- ✅ 10-page executive summary
-- ✅ Critical findings only
-- ✅ $3,500 credit toward full audit
+## 📚 Additional Resources
 
-**Perfect For**: Decision tool to determine if you need a full audit (not for compliance certification)
-
-[**→ Request Risk Assessment**](https://testmy.ai/risk-assessment)
-
----
-
-### Compliance Maintenance (Starting at $4,000/quarter)
-**What You Get**:
-- ✅ Quarterly re-testing of same scope
-- ✅ Updated compliance reports
-- ✅ Advisory call with lead auditor
-- ✅ Regulatory update alerts
-
-**Perfect For**: Ongoing Article 15 certification as your AI evolves
-
-**Prerequisite**: Completion of full EU AI Act Technical Audit
-
-[**→ Contact for Maintenance**](https://testmy.ai/contact)
-
----
-
-## 🌍 Why TestMy.AI?
-
-### The Independent EU AI Act Auditor
-
-**Our Focus**:
-- 🎖️ **Article 15 Specialists** - Independent technical testing that compliance consultants cannot do
-- 🏆 **550+ Tests Mapped to Article 15** - Every test directly maps to regulatory requirements
-- 🌍 **US & EMEA Expertise** - Serving both US companies expanding to Europe and EMEA enterprises
-
-**Our Promise**:
-- ⚡ **24-hour response time** to all audit requests
-- 🤝 **Direct expert access** during testing
-- 📍 **Fast delivery** - 7-10 business days for full audits
-
----
-
-## 📞 Get Started
-
-### Free Resources
-- 📄 [Download Whitepaper: "The Technical Gap in Article 15 Compliance"](https://testmy.ai/whitepaper)
-- 📊 [View Sample Reports](https://testmy.ai/sample-report) - See actual audit deliverables
-- 📝 [Blog: AI Security & EU AI Act Insights](https://testmy.ai/blog)
-
-### Professional Services
-- 🎯 [Request EU AI Act Technical Audit](https://testmy.ai/audit) - Starting at $15,000
-- 📋 [Request Article 15 Risk Assessment](https://testmy.ai/risk-assessment) - $3,500
-- 💼 [Partner Program](https://testmy.ai/partners) - For compliance consultants ($10K wholesale)
+- [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [MITRE ATLAS](https://atlas.mitre.org/)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [TestMy.AI Blog](https://testmy.ai/blog) - AI security insights
 
 ---
 
@@ -381,34 +287,17 @@ See [LICENSE](./LICENSE) for details.
 - **Our Customers** - Who trust us to audit their AI systems
 - **Community Contributors** - Who improve these tests
 
----
-
-## 📚 Additional Resources
-
-### OWASP LLM Top 10 References:
-- [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [MITRE ATLAS](https://atlas.mitre.org/)
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-
 ### Related Projects:
 - [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [PyRIT](https://github.com/Azure/PyRIT) - Python Risk Identification Toolkit
 - [LLM Guard](https://github.com/protectai/llm-guard) - Security toolkit
 
-### TestMy.AI Resources:
-- [About Us](https://testmy.ai/about)
-- [Blog](https://testmy.ai/blog)
-- [Sample Reports](https://testmy.ai/sample-report)
-- [All Services](https://testmy.ai/services)
-
 ---
 
 <div align="center">
 
-**TestMy.AI - EU AI Act Article 15 Technical Compliance Audits**
+**TestMy.AI Community Edition**
 
-[Website](https://testmy.ai) • [Request Audit](https://testmy.ai/audit) • [LinkedIn](https://linkedin.com/company/testmy-ai) • [Twitter](https://twitter.com/testmy_ai)
-
-*Built with ❤️ for the AI security community*
+[Website](https://testmy.ai)
 
 </div>
