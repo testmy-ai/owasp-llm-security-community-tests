@@ -9,7 +9,7 @@ This guide explains how to use the 15 foundational OWASP LLM security tests for 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/testmyai/owasp-llm-security-community-tests.git
+git clone https://github.com/testmy-ai/owasp-llm-security-community-tests.git
 cd owasp-llm-security-community-tests
 ```
 
@@ -200,18 +200,16 @@ These foundational tests help you:
 
 Consider professional security audits if you:
 - ✅ Are deploying to production
-- ✅ Need compliance certification (SOC2, ISO, GDPR)
+- ✅ Need evidence for a compliance programme (EU AI Act, ISO 42001, NIST AI RMF)
 - ✅ Are raising funding (investors want security proof)
 - ✅ Have enterprise customers asking for security validation
-- ✅ Want comprehensive coverage (505+ tests, not 15)
+- ✅ Want comprehensive coverage (818 tests, not 30)
 - ✅ Need expert analysis and remediation plans
 
 **TestMy.AI Professional Services:**
-- 🎯 **Black-Box Audit**: $15,000 | 505+ tests + expert report | 1 week
-- 📊 **Quarterly Monitoring**: $12,000/year | Ongoing certification
-- 🏢 **Compliance Package**: $25K-$40K/year | SOC2/GDPR ready
+Full-catalog black-box audits (818 tests across 25 categories), each probe repeated across many trials, with a written report and a compliance dossier mapped to EU AI Act Article 15, ISO 42001 and NIST AI RMF — a mapping that supports, does not confer, conformity.
 
-[Learn more at testmy.ai](https://testmy.ai)
+[See services and pricing at testmy.ai](https://testmy.ai/services)
 
 ---
 
@@ -219,7 +217,7 @@ Consider professional security audits if you:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/testmyai/owasp-llm-security-community-tests.git
+git clone https://github.com/testmy-ai/owasp-llm-security-community-tests.git
 cd owasp-llm-security-community-tests
 
 # 2. Review tests for your AI type (e.g., chatbot)
@@ -247,8 +245,8 @@ echo "## Test Results - $(date)" > test-results.md
 
 ## Frequently Asked Questions
 
-**Q: Are these 15 tests enough for production?**
-A: No. These cover 3% of the attack surface. Production needs 505+ tests with advanced techniques and expert analysis.
+**Q: Are these 30 tests enough for production?**
+A: No. They are ~4% of our 818-test catalog, run once each by hand. Production needs broad coverage, repeated trials per probe, and expert analysis.
 
 **Q: How often should I run these tests?**
 A: During development when you make AI changes. For production, quarterly professional audits are recommended.
@@ -256,7 +254,7 @@ A: During development when you make AI changes. For production, quarterly profes
 **Q: Can I use these for SOC2/GDPR compliance?**
 A: No. Compliance requires independent third-party audits with comprehensive testing and expert reports.
 
-**Q: What if my AI passes all 15 tests?**
+**Q: What if my AI passes all 30 tests?**
 A: Good start! But it may still be vulnerable to advanced attacks (multi-turn, encoding, RAG exploitation, etc.).
 
 **Q: Can I modify these tests?**
@@ -270,8 +268,8 @@ A: Check the "Vulnerability Indicators" in each test. If your AI's response matc
 ## Need Help?
 
 - **Documentation**: [severity-levels.md](severity-levels.md)
-- **Issues**: [GitHub Issues](https://github.com/testmyai/owasp-llm-security-community-tests/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/testmyai/owasp-llm-security-community-tests/discussions)
+- **Issues**: [GitHub Issues](https://github.com/testmy-ai/owasp-llm-security-community-tests/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/testmy-ai/owasp-llm-security-community-tests/discussions)
 - **Professional Testing**: [testmy.ai](https://testmy.ai)
 - **Email**: community@testmy.ai
 

@@ -17,7 +17,7 @@ This repository contains **educational reference tests** (15 foundational tests 
 - Translate documentation to other languages
 
 ### 2. **Report Issues**
-- Found a test that's unclear? [Open an issue](https://github.com/testmyai/owasp-llm-security-community-tests/issues)
+- Found a test that's unclear? [Open an issue](https://github.com/testmy-ai/owasp-llm-security-community-tests/issues)
 - Discovered a bug in usage examples? Let us know!
 - Have questions about a test? Ask in discussions
 
@@ -45,7 +45,7 @@ We **do not accept pull requests** that:
 - Change severity ratings or OWASP mappings
 - Request access to proprietary tests
 
-**Why?** This is an educational repository with 15 curated tests. Our Professional Suite contains 505+ proprietary tests developed from real-world attacks and customer engagements. Adding more tests here would undermine the educational focus and the value of our professional service.
+**Why?** This is an educational repository with 30 curated tests. Our Professional Suite contains 818 tests across 25 categories, developed from published research and real-world attack patterns. Adding more tests here would undermine the educational focus and the value of our professional service.
 
 ### Scope Expansion
 
@@ -174,8 +174,8 @@ This means:
 
 ## 🙋 Questions?
 
-- **General questions**: [GitHub Discussions](https://github.com/testmyai/owasp-llm-security-community-tests/discussions)
-- **Bug reports**: [GitHub Issues](https://github.com/testmyai/owasp-llm-security-community-tests/issues)
+- **General questions**: [GitHub Discussions](https://github.com/testmy-ai/owasp-llm-security-community-tests/discussions)
+- **Bug reports**: [GitHub Issues](https://github.com/testmy-ai/owasp-llm-security-community-tests/issues)
 - **Professional services**: enterprise@testmy.ai
 - **Community support**: opensource@testmy.ai
 
@@ -186,11 +186,9 @@ This means:
 Interested in our full test suite and expert analysis?
 
 **TestMy.AI Professional Services:**
-- 🎯 **Black-Box Audit**: $15,000 | 505+ tests + expert report
-- 📊 **Quarterly Monitoring**: $12,000/year | Ongoing certification
-- 🏢 **Compliance Package**: $25K-$40K/year | White-glove service
+Full-catalog black-box audits (818 tests across 25 categories), each probe repeated across many trials, with a written report and a compliance dossier mapped to EU AI Act Article 15, ISO 42001 and NIST AI RMF — a mapping that supports, does not confer, conformity.
 
-[Learn more at testmy.ai](https://testmy.ai)
+[See services and pricing at testmy.ai](https://testmy.ai/services)
 
 ---
 
